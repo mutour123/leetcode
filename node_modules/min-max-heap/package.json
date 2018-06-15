@@ -1,0 +1,25 @@
+{
+  "name": "min-max-heap",
+  "version": "0.0.1",
+  "description": "JavaScript implementations for a MinHeap and MaxHeap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch"
+  },
+  "keywords": [
+    "javascript",
+    "heap",
+    "heaps",
+    "minheap",
+    "maxheap",
+    "data",
+    "structure"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}

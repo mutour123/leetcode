@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "min-max-heap": "^0.0.1",
+    "nanoq": "^1.1.0"
+  }
+}
